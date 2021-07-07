@@ -1,0 +1,6 @@
+matplotlib
+keras==2.4.3
+gym
+progressbar2
+tensorflow==2.4.1
+opencv-python
