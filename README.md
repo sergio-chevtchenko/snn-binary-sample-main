@@ -1,6 +1,6 @@
 # Reinforcement learning from images in a grid-world
 
-A basic example of an SNN_V1 with the grid environment from the paper "Combining STDP and Binary Networks for Reinforcement Learning from Images and Sparse Rewards"
+A basic example of an SNN with the grid environment from the paper "Combining STDP and Binary Networks for Reinforcement Learning from Images and Sparse Rewards"
 
 
 ## Requirements
